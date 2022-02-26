@@ -9,8 +9,8 @@ The objective of this project is to develop a general purpose e-commerce store w
 # Pages details
 Home Page
 Login Page
-Register Page
 Sports Items Pages
+Register Page
 Cart Page
 Admin Page
 
@@ -36,33 +36,38 @@ Java Database Connectivity (JDBC) API
 ![image](https://user-images.githubusercontent.com/73273550/155847630-b8a437d9-9a80-42e7-a5ea-2eb37c751208.png)
 
 
-#----Home Page Of Shoping Application--------------------------------------------------------------------------------------------------------------------------------------------
+#Home Page Of Shoping Application
 
 ![Screenshot (2423)](https://user-images.githubusercontent.com/73273550/155847842-2e8203a5-3b99-4f7d-aa99-b96289356d54.png)
 
-#----Discount Itemes View-------------------------------------------------------------------------------------------------------------------------------------------------------
+#Discount Itemes View
 
 ![Screenshot (2424)](https://user-images.githubusercontent.com/73273550/155847893-70e83d6b-926a-4b22-86af-0664443df7d4.png)
 
-#----Cart View------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#Cart View
 
 ![Screenshot (2426)](https://user-images.githubusercontent.com/73273550/155847958-7e5af1a4-198a-4787-b017-0c5bc3c7641b.png)
 
-#----Daily Sales (Admin Page)---------------------------------------------------------------------------------------------------------------------------------------------------
+#Admin Home Page
 
-![Screenshot (2427)](https://user-images.githubusercontent.com/73273550/155847977-e6ae66a7-41f2-4afc-af8f-9c5f5de2dbc1.png)
+![Screenshot (2427)](https://user-images.githubusercontent.com/73273550/155854576-f2e58064-10e9-497a-8eef-7f48c22ea322.png)
 
-#-----Sales Comparison (admin page)---------------------------------------------------------------------------------------------------------------------------------------------
+#Daily Sales (Admin Page)
 
-![Screenshot (2428)](https://user-images.githubusercontent.com/73273550/155847992-b44a5c8a-760a-427b-8fac-e89c2fd93221.png)
+![Screenshot (2428)](https://user-images.githubusercontent.com/73273550/155854599-508abdcb-aaab-4968-809e-f5ed37d9b9db.png)
 
-#-----Sales comparison with pie charts (admin page)------------------------------------------------------------------------------------------------------------------------------
+#Sales comparison with Category
 
-![Screenshot (2429)](https://user-images.githubusercontent.com/73273550/155848012-86ff0dbd-9756-4cb7-a46b-a0d894105784.png)
+![Screenshot (2429)](https://user-images.githubusercontent.com/73273550/155854618-01c25ee6-8307-43ef-9752-f07f5a71338e.png)
+------------------------------------------------------
+![Screenshot (2430)](https://user-images.githubusercontent.com/73273550/155854643-3301455c-74d5-4d60-afaa-7707a6f577a2.png)
+-----------------------------------------------------
+![Screenshot (2431)](https://user-images.githubusercontent.com/73273550/155854656-06dfa07c-30bc-4bc0-86d6-4860cd850851.png)
 
-#-----Sales comparison with bar charts(admin page)------------------------------------------------------------------------------------------------------------------------------
 
-![Screenshot (2431)](https://user-images.githubusercontent.com/73273550/155848028-d067e771-633e-4e0b-b84b-f78dbfb0328c.png)
+
+
+
 
 
 
