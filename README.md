@@ -1,1 +1,0 @@
-# online-shoping-application
