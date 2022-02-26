@@ -10,30 +10,25 @@ The objective of this project is to develop a general purpose e-commerce store w
 Home Page
 Login Page
 Sports Items Pages
-Register Page
 Cart Page
 Admin Page
 
-![image](https://user-images.githubusercontent.com/73273550/155847585-3b903c4d-98e2-4cee-bf83-ec84392fe28d.png)
 
-Technologies we used:![image](https://user-images.githubusercontent.com/73273550/155847603-9bb950ba-df5a-497f-90b8-b48273840472.png)
+Technologies we used:
 
 Java
 Java Swing GUI  toolkit
 MySQL
 
-![image](https://user-images.githubusercontent.com/73273550/155847611-5a45ece6-7491-4548-acfc-c85ab077d96d.png)
 
 Environment used:
-![image](https://user-images.githubusercontent.com/73273550/155847619-06c4aa7d-345a-4236-9b91-3ec7fb1cc41c.png)
-
 
 JDK 16
 NetBeans IDE
 PhpMyAdmin
 Java Database Connectivity (JDBC) API
 
-![image](https://user-images.githubusercontent.com/73273550/155847630-b8a437d9-9a80-42e7-a5ea-2eb37c751208.png)
+
 
 
 #Home Page Of Shoping Application
