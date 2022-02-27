@@ -31,7 +31,7 @@ The objective of this project is to develop a general purpose e-commerce store w
 
 
 
-# Home Page Of Shoping Application
+# Home Page Of Shopping Application
 
 ![Screenshot (2423)](https://user-images.githubusercontent.com/73273550/155847842-2e8203a5-3b99-4f7d-aa99-b96289356d54.png)
 
